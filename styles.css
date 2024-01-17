@@ -1,0 +1,15 @@
+ .navbar div {
+  background-color: aqua;
+ }
+
+ .dropdown li {
+  background-color:  rgb(29, 177, 36);
+ }
+
+ form .btn {
+  background-color: rgb(47, 245, 64);
+ }
+
+ .btn btn-outline-success {
+  color: white;
+ }
